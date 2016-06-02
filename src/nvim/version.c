@@ -636,7 +636,7 @@ static int included_patches[] = {
   1059,
   // 1058,
   1057,
-  // 1056,
+  1056,
   1055,
   1054,
   1053,
@@ -2019,3 +2019,4 @@ void ex_intro(exarg_T *eap)
   intro_message(TRUE);
   wait_return(TRUE);
 }
+
